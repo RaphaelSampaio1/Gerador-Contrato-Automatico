@@ -87,4 +87,6 @@ Após fornecer essas informações, o PDF será gerado e salvo no diretório atu
 
 Este script é uma ferramenta útil para freelancers e profissionais que precisam gerar orçamentos personalizados rapidamente. Com pequenas modificações, ele pode ser adaptado para atender a diferentes necessidades e formatos de documentos.
 
-Para mais detalhes e contribuições, visite o [repositório GitHub](https://github.com/seuusuario/gerador_pdf_orcamento).
+Entre em contato comigo :
+[LinkeIn](https://www.linkedin.com/in/raphael-sampaio-52475622b/)
+[E-mail](mailto:raphaelsantos.jan@gmail.com)
